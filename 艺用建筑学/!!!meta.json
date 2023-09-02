@@ -1,0 +1,3557 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.60.4",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "q7MEjVoBCNqK",
+			"notePath": [
+				"q7MEjVoBCNqK"
+			],
+			"title": "艺用建筑学",
+			"notePosition": 20,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [
+				{
+					"type": "label",
+					"name": "mapType",
+					"value": "tree",
+					"isInheritable": false,
+					"position": 1
+				}
+			],
+			"format": "html",
+			"dirFileName": "艺用建筑学",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "YxxSFOqnNBPb",
+					"notePath": [
+						"q7MEjVoBCNqK",
+						"YxxSFOqnNBPb"
+					],
+					"title": "符号示意",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "iconClass",
+							"value": "bx bx-list-ul",
+							"isInheritable": false,
+							"position": 1
+						}
+					],
+					"format": "html",
+					"dataFileName": "符号示意.html"
+				},
+				{
+					"isClone": false,
+					"noteId": "LqFcQq8GK0hL",
+					"notePath": [
+						"q7MEjVoBCNqK",
+						"LqFcQq8GK0hL"
+					],
+					"title": "正文",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dirFileName": "正文",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "hjglnfD2EYDY",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"LqFcQq8GK0hL",
+								"hjglnfD2EYDY"
+							],
+							"title": "楼梯",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "bYlorpAmj7zo",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "KILr8cUzoBJ9",
+									"isInheritable": false,
+									"position": 2
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "Pq5pMDlsiJXZ",
+									"isInheritable": false,
+									"position": 3
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "yZa32x4ECzmb",
+									"isInheritable": false,
+									"position": 4
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "pUO295nL5PEJ",
+									"isInheritable": false,
+									"position": 5
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "Qj9Gt6Qxw9xS",
+									"isInheritable": false,
+									"position": 6
+								}
+							],
+							"format": "html",
+							"dataFileName": "楼梯.html"
+						},
+						{
+							"isClone": false,
+							"noteId": "1weqApedAf2v",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"LqFcQq8GK0hL",
+								"1weqApedAf2v"
+							],
+							"title": "主要",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": true,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "pIthjqH1jFCJ",
+									"isInheritable": false,
+									"position": 20
+								},
+								{
+									"type": "relation",
+									"name": "internalLink",
+									"value": "gIOIVoPUr3fj",
+									"isInheritable": false,
+									"position": 21
+								}
+							],
+							"format": "html",
+							"dataFileName": "主要.html",
+							"dirFileName": "主要",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "pIthjqH1jFCJ",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"LqFcQq8GK0hL",
+										"1weqApedAf2v",
+										"pIthjqH1jFCJ"
+									],
+									"title": "梁板",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "Uj9ai5lKYCW7",
+											"isInheritable": false,
+											"position": 1
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "PjnKVMqOTWP2",
+											"isInheritable": false,
+											"position": 2
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "5E4OpjRFt4GG",
+											"isInheritable": false,
+											"position": 3
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "B0N5pglN2wlC",
+											"isInheritable": false,
+											"position": 4
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "z4NW02WR2LeU",
+											"isInheritable": false,
+											"position": 5
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "XaywYItW8PBP",
+											"isInheritable": false,
+											"position": 6
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "jcied3PonEMY",
+											"isInheritable": false,
+											"position": 7
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "T1drMVjfGv1I",
+											"isInheritable": false,
+											"position": 8
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "TgkW5vRCZa1Y",
+											"isInheritable": false,
+											"position": 9
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "aY2RAOoCfMnO",
+											"isInheritable": false,
+											"position": 10
+										}
+									],
+									"format": "html",
+									"dataFileName": "梁板.html"
+								},
+								{
+									"isClone": false,
+									"noteId": "gIOIVoPUr3fj",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"LqFcQq8GK0hL",
+										"1weqApedAf2v",
+										"gIOIVoPUr3fj"
+									],
+									"title": "大跨",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "text",
+									"mime": "text/html",
+									"attributes": [
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "4lA3aUpE8kBW",
+											"isInheritable": false,
+											"position": 1
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "EAbTVc4f4nKG",
+											"isInheritable": false,
+											"position": 2
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "JZvDt26NBYGv",
+											"isInheritable": false,
+											"position": 3
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "HHxeytdlIVJE",
+											"isInheritable": false,
+											"position": 4
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "KCFY6HrmuXQs",
+											"isInheritable": false,
+											"position": 5
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "1sHaYH252miG",
+											"isInheritable": false,
+											"position": 6
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "aIhqNYiu4s7S",
+											"isInheritable": false,
+											"position": 7
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "Dg4d6V7Olph0",
+											"isInheritable": false,
+											"position": 8
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "5vqv0K8StHAK",
+											"isInheritable": false,
+											"position": 10
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "Nszs9ZUfppMZ",
+											"isInheritable": false,
+											"position": 11
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "tIyPAde2Uy0K",
+											"isInheritable": false,
+											"position": 12
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "CBeUFHvjXzLe",
+											"isInheritable": false,
+											"position": 13
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "jhBVtQBe1lpQ",
+											"isInheritable": false,
+											"position": 14
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "D1RDuhX6ANsb",
+											"isInheritable": false,
+											"position": 15
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "ZXb3NvtLnFku",
+											"isInheritable": false,
+											"position": 16
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "O4m7YOm4YHfK",
+											"isInheritable": false,
+											"position": 17
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "BKg71rMKnvda",
+											"isInheritable": false,
+											"position": 19
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "6l5Hb2pjER9C",
+											"isInheritable": false,
+											"position": 20
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "EGkVShYmLtss",
+											"isInheritable": false,
+											"position": 21
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "Ko30vbrQlLlp",
+											"isInheritable": false,
+											"position": 22
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "DlEKSUB21Mjp",
+											"isInheritable": false,
+											"position": 23
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "7b9uKM1vZcdC",
+											"isInheritable": false,
+											"position": 24
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "h2akh9pFkRh0",
+											"isInheritable": false,
+											"position": 25
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "EtXIDHDAnr2n",
+											"isInheritable": false,
+											"position": 26
+										},
+										{
+											"type": "relation",
+											"name": "internalLink",
+											"value": "vWea74i58BlQ",
+											"isInheritable": false,
+											"position": 27
+										}
+									],
+									"format": "html",
+									"dataFileName": "大跨.html"
+								}
+							]
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "AKscqCrO1NV2",
+					"notePath": [
+						"q7MEjVoBCNqK",
+						"AKscqCrO1NV2"
+					],
+					"title": "参考",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [
+						{
+							"type": "label",
+							"name": "iconClass",
+							"value": "bx bx-list-ul",
+							"isInheritable": false,
+							"position": 1
+						}
+					],
+					"format": "html",
+					"dataFileName": "参考.html"
+				},
+				{
+					"isClone": false,
+					"noteId": "HkakckcBPl82",
+					"notePath": [
+						"q7MEjVoBCNqK",
+						"HkakckcBPl82"
+					],
+					"title": "图库",
+					"notePosition": 40,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dirFileName": "图库",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "Dg4d6V7Olph0",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"Dg4d6V7Olph0"
+							],
+							"title": "梁桁架-桥",
+							"notePosition": 0,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "PYm8eDwzNtHL",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "4ckPPMyExK5B",
+									"isInheritable": false,
+									"position": 2
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "nb29UWU3FSue",
+									"isInheritable": false,
+									"position": 3
+								}
+							],
+							"format": "html",
+							"dataFileName": "梁桁架-桥.html",
+							"dirFileName": "梁桁架-桥",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "PYm8eDwzNtHL",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"Dg4d6V7Olph0",
+										"PYm8eDwzNtHL"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic4.zhimg.com/80/v2-dcf53089e475646c2ff5865d4f79e71f_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								},
+								{
+									"isClone": false,
+									"noteId": "4ckPPMyExK5B",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"Dg4d6V7Olph0",
+										"4ckPPMyExK5B"
+									],
+									"title": "image.webp",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic4.zhimg.com/80/v2-7fceedf003adc8ff0db05f13d54d887b_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.webp"
+								},
+								{
+									"isClone": false,
+									"noteId": "nb29UWU3FSue",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"Dg4d6V7Olph0",
+										"nb29UWU3FSue"
+									],
+									"title": "image.webp",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic3.zhimg.com/80/v2-36e81bf0ae58966fcef40dfbe41681aa_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "2_image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "Uj9ai5lKYCW7",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"Uj9ai5lKYCW7"
+							],
+							"title": "钢梁板",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "d4YDxO3XRHY2",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "Yhf3oEaVAsyy",
+									"isInheritable": false,
+									"position": 2
+								}
+							],
+							"format": "html",
+							"dataFileName": "钢梁板.html",
+							"dirFileName": "钢梁板",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "d4YDxO3XRHY2",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"Uj9ai5lKYCW7",
+										"d4YDxO3XRHY2"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "Yhf3oEaVAsyy",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"Uj9ai5lKYCW7",
+										"Yhf3oEaVAsyy"
+									],
+									"title": "image.png",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "PjnKVMqOTWP2",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"PjnKVMqOTWP2"
+							],
+							"title": "叠接",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "XC05juhrLUmi",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "叠接.html",
+							"dirFileName": "叠接",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "XC05juhrLUmi",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"PjnKVMqOTWP2",
+										"XC05juhrLUmi"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "5E4OpjRFt4GG",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"5E4OpjRFt4GG"
+							],
+							"title": "平接",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "izFMHx1Oq75Q",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "平接.html",
+							"dirFileName": "平接",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "izFMHx1Oq75Q",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"5E4OpjRFt4GG",
+										"izFMHx1Oq75Q"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "B0N5pglN2wlC",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"B0N5pglN2wlC"
+							],
+							"title": "木梁板",
+							"notePosition": 40,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "sZpg1JM4191o",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "木梁板.html",
+							"dirFileName": "木梁板",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "sZpg1JM4191o",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"B0N5pglN2wlC",
+										"sZpg1JM4191o"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "z4NW02WR2LeU",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"z4NW02WR2LeU"
+							],
+							"title": "钢梁-混凝土面板",
+							"notePosition": 50,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "pCEFdQzXySG8",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "钢梁-混凝土面板.html",
+							"dirFileName": "钢梁-混凝土面板",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "pCEFdQzXySG8",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"z4NW02WR2LeU",
+										"pCEFdQzXySG8"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "XaywYItW8PBP",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"XaywYItW8PBP"
+							],
+							"title": "钢梁-压型钢板混凝土组合板",
+							"notePosition": 60,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "muIIKYxbpEai",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "UeBigsz0PmLE",
+									"isInheritable": false,
+									"position": 2
+								}
+							],
+							"format": "html",
+							"dataFileName": "钢梁-压型钢板混凝土组合板.html",
+							"dirFileName": "钢梁-压型钢板混凝土组合板",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "muIIKYxbpEai",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"XaywYItW8PBP",
+										"muIIKYxbpEai"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "UeBigsz0PmLE",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"XaywYItW8PBP",
+										"UeBigsz0PmLE"
+									],
+									"title": "image.png",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "jcied3PonEMY",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"jcied3PonEMY"
+							],
+							"title": "型钢混凝土梁-混凝土面板",
+							"notePosition": 70,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "A5YwHHBhUgRn",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "xptzJyGOR42Q",
+									"isInheritable": false,
+									"position": 2
+								}
+							],
+							"format": "html",
+							"dataFileName": "型钢混凝土梁-混凝土面板.html",
+							"dirFileName": "型钢混凝土梁-混凝土面板",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "A5YwHHBhUgRn",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"jcied3PonEMY",
+										"A5YwHHBhUgRn"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "xptzJyGOR42Q",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"jcied3PonEMY",
+										"xptzJyGOR42Q"
+									],
+									"title": "image.png",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "T1drMVjfGv1I",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"T1drMVjfGv1I"
+							],
+							"title": "单向板肋梁",
+							"notePosition": 80,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "eeotkJzQdRI2",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "单向板肋梁.html",
+							"dirFileName": "单向板肋梁",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "eeotkJzQdRI2",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"T1drMVjfGv1I",
+										"eeotkJzQdRI2"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "TgkW5vRCZa1Y",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"TgkW5vRCZa1Y"
+							],
+							"title": "双向板肋梁",
+							"notePosition": 90,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "JjH5gtnfLaZY",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "label",
+									"name": "iconClass",
+									"value": "bx bx-image-alt",
+									"isInheritable": false,
+									"position": 2
+								}
+							],
+							"format": "html",
+							"dataFileName": "双向板肋梁.html",
+							"dirFileName": "双向板肋梁",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "JjH5gtnfLaZY",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"TgkW5vRCZa1Y",
+										"JjH5gtnfLaZY"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "aY2RAOoCfMnO",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"aY2RAOoCfMnO"
+							],
+							"title": "密肋",
+							"notePosition": 100,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "fHYCmJg1xtFP",
+									"isInheritable": false,
+									"position": 6
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "OeIdSrmAhZx6",
+									"isInheritable": false,
+									"position": 7
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "oxtVqFB5nVG6",
+									"isInheritable": false,
+									"position": 8
+								}
+							],
+							"format": "html",
+							"dataFileName": "密肋.html",
+							"dirFileName": "密肋",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "fHYCmJg1xtFP",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"aY2RAOoCfMnO",
+										"fHYCmJg1xtFP"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "OeIdSrmAhZx6",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"aY2RAOoCfMnO",
+										"OeIdSrmAhZx6"
+									],
+									"title": "image.png",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "oxtVqFB5nVG6",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"aY2RAOoCfMnO",
+										"oxtVqFB5nVG6"
+									],
+									"title": "image.png",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "2_image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "EAbTVc4f4nKG",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"EAbTVc4f4nKG"
+							],
+							"title": "竖杆/单柱式 三角桁架",
+							"notePosition": 110,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "wHSQBk0KGCXU",
+									"isInheritable": false,
+									"position": 10
+								}
+							],
+							"format": "html",
+							"dataFileName": "竖杆单柱式 三角桁架.html",
+							"dirFileName": "竖杆单柱式 三角桁架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "wHSQBk0KGCXU",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"EAbTVc4f4nKG",
+										"wHSQBk0KGCXU"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "JZvDt26NBYGv",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"JZvDt26NBYGv"
+							],
+							"title": "对柱/双柱式/梯形 三角桁架",
+							"notePosition": 120,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "lvmFXneGok6W",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "lKujRRED2vOE",
+									"isInheritable": false,
+									"position": 3
+								}
+							],
+							"format": "html",
+							"dataFileName": "对柱双柱式梯形 三角桁架.html",
+							"dirFileName": "对柱双柱式梯形 三角桁架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "lvmFXneGok6W",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"JZvDt26NBYGv",
+										"lvmFXneGok6W"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "lKujRRED2vOE",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"JZvDt26NBYGv",
+										"lKujRRED2vOE"
+									],
+									"title": "image.webp",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic1.zhimg.com/80/v2-4ae235e744c8cfedd7616d5ffd866cc4_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "4lA3aUpE8kBW",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"4lA3aUpE8kBW"
+							],
+							"title": "三角桁架",
+							"notePosition": 130,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "CBD42QxRlz6t",
+									"isInheritable": false,
+									"position": 2
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "Sshb2FRh07zP",
+									"isInheritable": false,
+									"position": 3
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "5XueVweyWwUK",
+									"isInheritable": false,
+									"position": 4
+								}
+							],
+							"format": "html",
+							"dataFileName": "三角桁架.html",
+							"dirFileName": "三角桁架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "CBD42QxRlz6t",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"4lA3aUpE8kBW",
+										"CBD42QxRlz6t"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic1.zhimg.com/80/v2-4cf63bce5a1f0ed76b2d27acadb32cbc_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								},
+								{
+									"isClone": false,
+									"noteId": "Sshb2FRh07zP",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"4lA3aUpE8kBW",
+										"Sshb2FRh07zP"
+									],
+									"title": "image.webp",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic3.zhimg.com/80/v2-4bdac18d40a314786d8fd3adb151b82e_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.webp"
+								},
+								{
+									"isClone": false,
+									"noteId": "5XueVweyWwUK",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"4lA3aUpE8kBW",
+										"5XueVweyWwUK"
+									],
+									"title": "image.webp",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic4.zhimg.com/80/v2-fe87cfbbf050ea3cc66e25f53ed6f4e3_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "2_image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "HHxeytdlIVJE",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"HHxeytdlIVJE"
+							],
+							"title": "从”拱桥+增强刚架”到平行弦桁架的演化",
+							"notePosition": 140,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "OZAkpsG35JEO",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "从”拱桥+增强刚架”到平行弦桁架的演化.html",
+							"dirFileName": "从”拱桥+增强刚架”到平行弦桁架的演化",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "OZAkpsG35JEO",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"HHxeytdlIVJE",
+										"OZAkpsG35JEO"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic4.zhimg.com/80/v2-3056a81342eec5b89f54e33eaab86857_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "KCFY6HrmuXQs",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"KCFY6HrmuXQs"
+							],
+							"title": "下承式梁桁架",
+							"notePosition": 150,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "EkrmLfrgWj7f",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "下承式梁桁架.html",
+							"dirFileName": "下承式梁桁架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "EkrmLfrgWj7f",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"KCFY6HrmuXQs",
+										"EkrmLfrgWj7f"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic3.zhimg.com/80/v2-d48d5e76cc9478d7e2cf9d1b6344ee5e_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "1sHaYH252miG",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"1sHaYH252miG"
+							],
+							"title": "上承式梁桁架",
+							"notePosition": 160,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "UL8Crmia19ev",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "上承式梁桁架.html",
+							"dirFileName": "上承式梁桁架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "UL8Crmia19ev",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"1sHaYH252miG",
+										"UL8Crmia19ev"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic4.zhimg.com/80/v2-9c9d9e115def19c0c2490624ab04c6cf_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "aIhqNYiu4s7S",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"aIhqNYiu4s7S"
+							],
+							"title": "梁桁架与拱结合",
+							"notePosition": 170,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "exQIDmqWrna7",
+									"isInheritable": false,
+									"position": 2
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "rw57RXEP2tmk",
+									"isInheritable": false,
+									"position": 3
+								}
+							],
+							"format": "html",
+							"dataFileName": "梁桁架与拱结合.html",
+							"dirFileName": "梁桁架与拱结合",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "exQIDmqWrna7",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"aIhqNYiu4s7S",
+										"exQIDmqWrna7"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic4.zhimg.com/80/v2-77aa023f0dc2d4f2c412ef8557f1af53_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								},
+								{
+									"isClone": false,
+									"noteId": "rw57RXEP2tmk",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"aIhqNYiu4s7S",
+										"rw57RXEP2tmk"
+									],
+									"title": "image.webp",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic2.zhimg.com/80/v2-2af3dd9ebca5bbf2957ca0bb44342595_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "Nszs9ZUfppMZ",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"Nszs9ZUfppMZ"
+							],
+							"title": "蓬皮杜中心",
+							"notePosition": 180,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "qn1RFKrvWu76",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "蓬皮杜中心.html",
+							"dirFileName": "蓬皮杜中心",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "qn1RFKrvWu76",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"Nszs9ZUfppMZ",
+										"qn1RFKrvWu76"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic2.zhimg.com/80/v2-1587476358bfdaafbd85d02312f505f5_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "bYlorpAmj7zo",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"bYlorpAmj7zo"
+							],
+							"title": "楼梯平台梁省略一侧",
+							"notePosition": 190,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "FTLOXvf31YDy",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "楼梯平台梁省略一侧.html",
+							"dirFileName": "楼梯平台梁省略一侧",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "FTLOXvf31YDy",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"bYlorpAmj7zo",
+										"FTLOXvf31YDy"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "KILr8cUzoBJ9",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"KILr8cUzoBJ9"
+							],
+							"title": "板式楼梯",
+							"notePosition": 200,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "ZbKbQ4pFaxmZ",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "MtQnJzNShGiH",
+									"isInheritable": false,
+									"position": 2
+								}
+							],
+							"format": "html",
+							"dataFileName": "板式楼梯.html",
+							"dirFileName": "板式楼梯",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "ZbKbQ4pFaxmZ",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"KILr8cUzoBJ9",
+										"ZbKbQ4pFaxmZ"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "MtQnJzNShGiH",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"KILr8cUzoBJ9",
+										"MtQnJzNShGiH"
+									],
+									"title": "image.png",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "Pq5pMDlsiJXZ",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"Pq5pMDlsiJXZ"
+							],
+							"title": "梁式楼梯",
+							"notePosition": 210,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "BeN1s5Is3yZZ",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "ylvdhBI0Mglc",
+									"isInheritable": false,
+									"position": 2
+								}
+							],
+							"format": "html",
+							"dataFileName": "梁式楼梯.html",
+							"dirFileName": "梁式楼梯",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "BeN1s5Is3yZZ",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"Pq5pMDlsiJXZ",
+										"BeN1s5Is3yZZ"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								},
+								{
+									"isClone": false,
+									"noteId": "ylvdhBI0Mglc",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"Pq5pMDlsiJXZ",
+										"ylvdhBI0Mglc"
+									],
+									"title": "image.png",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "yZa32x4ECzmb",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"yZa32x4ECzmb"
+							],
+							"title": "剪刀式楼梯",
+							"notePosition": 220,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "iAQbtxQ1aQZX",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "剪刀式楼梯.html",
+							"dirFileName": "剪刀式楼梯",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "iAQbtxQ1aQZX",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"yZa32x4ECzmb",
+										"iAQbtxQ1aQZX"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "pUO295nL5PEJ",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"pUO295nL5PEJ"
+							],
+							"title": "螺旋式楼梯",
+							"notePosition": 230,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "zzxxJ1YhNor5",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "螺旋式楼梯.html",
+							"dirFileName": "螺旋式楼梯",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "zzxxJ1YhNor5",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"pUO295nL5PEJ",
+										"zzxxJ1YhNor5"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "Qj9Gt6Qxw9xS",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"Qj9Gt6Qxw9xS"
+							],
+							"title": "弧形楼梯",
+							"notePosition": 240,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "DyssihkmyqJ1",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "弧形楼梯.html",
+							"dirFileName": "弧形楼梯",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "DyssihkmyqJ1",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"Qj9Gt6Qxw9xS",
+										"DyssihkmyqJ1"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "5vqv0K8StHAK",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"5vqv0K8StHAK"
+							],
+							"title": "格尔悬臂梁",
+							"notePosition": 250,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "bb34I8scvRa3",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "O2icAPHd9qXu",
+									"isInheritable": false,
+									"position": 2
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "EAG39ZQADGXD",
+									"isInheritable": false,
+									"position": 3
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "sZTO3UZsC8ob",
+									"isInheritable": false,
+									"position": 4
+								}
+							],
+							"format": "html",
+							"dataFileName": "格尔悬臂梁.html",
+							"dirFileName": "格尔悬臂梁",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "bb34I8scvRa3",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"5vqv0K8StHAK",
+										"bb34I8scvRa3"
+									],
+									"title": "image.jpg",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.jpg",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic3.zhimg.com/80/v2-3d02dd77862be703fc674f1532cc544a_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.jpg"
+								},
+								{
+									"isClone": false,
+									"noteId": "O2icAPHd9qXu",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"5vqv0K8StHAK",
+										"O2icAPHd9qXu"
+									],
+									"title": "image.webp",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic1.zhimg.com/80/v2-98973f5bcafa28984cda7ab43b7b6798_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								},
+								{
+									"isClone": false,
+									"noteId": "EAG39ZQADGXD",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"5vqv0K8StHAK",
+										"EAG39ZQADGXD"
+									],
+									"title": "image.webp",
+									"notePosition": 30,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic1.zhimg.com/80/v2-8b6d03bd62bf6b8648199867b4337230_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.webp"
+								},
+								{
+									"isClone": false,
+									"noteId": "sZTO3UZsC8ob",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"5vqv0K8StHAK",
+										"sZTO3UZsC8ob"
+									],
+									"title": "image.webp",
+									"notePosition": 40,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic2.zhimg.com/80/v2-75fa5152ae12d30d73cb1a9a0f19d4ad_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "2_image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "ZXb3NvtLnFku",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"ZXb3NvtLnFku"
+							],
+							"title": "空腹桁架",
+							"notePosition": 260,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "wKoPMgazIO5F",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "I5aIDYuBbvl9",
+									"isInheritable": false,
+									"position": 2
+								}
+							],
+							"format": "html",
+							"dataFileName": "空腹桁架.html",
+							"dirFileName": "空腹桁架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "wKoPMgazIO5F",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"ZXb3NvtLnFku",
+										"wKoPMgazIO5F"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic2.zhimg.com/80/v2-d82756fc6e5dd996f06b84b4b14b28dd_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								},
+								{
+									"isClone": false,
+									"noteId": "I5aIDYuBbvl9",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"ZXb3NvtLnFku",
+										"I5aIDYuBbvl9"
+									],
+									"title": "image.webp",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic4.zhimg.com/80/v2-60222f486fd9563abda6a822da04c18b_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "tIyPAde2Uy0K",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"tIyPAde2Uy0K"
+							],
+							"title": "旧金山国际机场",
+							"notePosition": 270,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "iq4rB6QLjU7S",
+									"isInheritable": false,
+									"position": 1
+								},
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "MDRnRybo8GH7",
+									"isInheritable": false,
+									"position": 4
+								}
+							],
+							"format": "html",
+							"dataFileName": "旧金山国际机场.html",
+							"dirFileName": "旧金山国际机场",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "iq4rB6QLjU7S",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"tIyPAde2Uy0K",
+										"iq4rB6QLjU7S"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic3.zhimg.com/80/v2-b7f1509bc1905d3fc0501c65d4994e6a_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								},
+								{
+									"isClone": false,
+									"noteId": "MDRnRybo8GH7",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"tIyPAde2Uy0K",
+										"MDRnRybo8GH7"
+									],
+									"title": "image.webp",
+									"notePosition": 20,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic1.zhimg.com/80/v2-5c47f066ecad0210dbe772fdcc60664c_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "1_image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "CBeUFHvjXzLe",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"CBeUFHvjXzLe"
+							],
+							"title": "关西机场",
+							"notePosition": 280,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "F841teQklssf",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "关西机场.html",
+							"dirFileName": "关西机场",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "F841teQklssf",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"CBeUFHvjXzLe",
+										"F841teQklssf"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic2.zhimg.com/80/v2-5c2feaeb27a7df042f663613e16f9ff5_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "jhBVtQBe1lpQ",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"jhBVtQBe1lpQ"
+							],
+							"title": "桁架端部合并处理的细节",
+							"notePosition": 290,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "wb1EbF9AqfEh",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "桁架端部合并处理的细节.html",
+							"dirFileName": "桁架端部合并处理的细节",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "wb1EbF9AqfEh",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"jhBVtQBe1lpQ",
+										"wb1EbF9AqfEh"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic2.zhimg.com/80/v2-99032b0cde37ab5a532c703f2bbb7321_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "D1RDuhX6ANsb",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"D1RDuhX6ANsb"
+							],
+							"title": "优化产生的桁架",
+							"notePosition": 300,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "KkYkbKSzFhza",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "优化产生的桁架.html",
+							"dirFileName": "优化产生的桁架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "KkYkbKSzFhza",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"D1RDuhX6ANsb",
+										"KkYkbKSzFhza"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic4.zhimg.com/80/v2-d50fa727f63e4c327e19cb9dda45045f_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "O4m7YOm4YHfK",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"O4m7YOm4YHfK"
+							],
+							"title": "桁架构成",
+							"notePosition": 310,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "F32WBR68raJN",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "桁架构成.html",
+							"dirFileName": "桁架构成",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "F32WBR68raJN",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"O4m7YOm4YHfK",
+										"F32WBR68raJN"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "BKg71rMKnvda",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"BKg71rMKnvda"
+							],
+							"title": "两向正交正放网架",
+							"notePosition": 320,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "两向正交正放网架.html"
+						},
+						{
+							"isClone": false,
+							"noteId": "6l5Hb2pjER9C",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"6l5Hb2pjER9C"
+							],
+							"title": "两向正交斜放网架",
+							"notePosition": 330,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "NfxvhdClnTbE",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "两向正交斜放网架.html",
+							"dirFileName": "两向正交斜放网架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "NfxvhdClnTbE",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"6l5Hb2pjER9C",
+										"NfxvhdClnTbE"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic4.zhimg.com/80/v2-9b14815e52b96929a75b83c78862c6e3_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "EGkVShYmLtss",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"EGkVShYmLtss"
+							],
+							"title": "三向网架",
+							"notePosition": 340,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "YbaF989gm2M2",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "三向网架.html",
+							"dirFileName": "三向网架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "YbaF989gm2M2",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"EGkVShYmLtss",
+										"YbaF989gm2M2"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic1.zhimg.com/80/v2-43410b69e8143156f37137cbbeda637c_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "Ko30vbrQlLlp",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"Ko30vbrQlLlp"
+							],
+							"title": "正放四角锥网架",
+							"notePosition": 350,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "BiD3bpZeoTjY",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "正放四角锥网架.html",
+							"dirFileName": "正放四角锥网架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "BiD3bpZeoTjY",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"Ko30vbrQlLlp",
+										"BiD3bpZeoTjY"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic1.zhimg.com/80/v2-eb5c6c0b3ee563d3b30fd9ce5e0ae72c_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "DlEKSUB21Mjp",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"DlEKSUB21Mjp"
+							],
+							"title": "斜放四角锥网架",
+							"notePosition": 360,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "wwEdzJgi5wB5",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "斜放四角锥网架.html",
+							"dirFileName": "斜放四角锥网架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "wwEdzJgi5wB5",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"DlEKSUB21Mjp",
+										"wwEdzJgi5wB5"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic1.zhimg.com/80/v2-71ed584b6d1a0a2c835f6fc38061b2bc_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "7b9uKM1vZcdC",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"7b9uKM1vZcdC"
+							],
+							"title": "棋盘四角锥网架",
+							"notePosition": 370,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "7VfQk1fkpgLH",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "棋盘四角锥网架.html",
+							"dirFileName": "棋盘四角锥网架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "7VfQk1fkpgLH",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"7b9uKM1vZcdC",
+										"7VfQk1fkpgLH"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic3.zhimg.com/80/v2-b66f98c128a731b1ae1e46d4ddfecbea_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "h2akh9pFkRh0",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"h2akh9pFkRh0"
+							],
+							"title": "星形四角锥网架",
+							"notePosition": 380,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "2VDnEAlbY4W7",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "星形四角锥网架.html",
+							"dirFileName": "星形四角锥网架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "2VDnEAlbY4W7",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"h2akh9pFkRh0",
+										"2VDnEAlbY4W7"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic3.zhimg.com/80/v2-0660d937be8eee9739e7cc750ac2d642_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "EtXIDHDAnr2n",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"EtXIDHDAnr2n"
+							],
+							"title": "三角锥网架",
+							"notePosition": 390,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "TWdwzSIHOq7O",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "三角锥网架.html",
+							"dirFileName": "三角锥网架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "TWdwzSIHOq7O",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"EtXIDHDAnr2n",
+										"TWdwzSIHOq7O"
+									],
+									"title": "image.webp",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/webp",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.webp",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic2.zhimg.com/80/v2-5275a053e4ddbbd41d0ebb6d8351e205_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.webp"
+								}
+							]
+						},
+						{
+							"isClone": false,
+							"noteId": "vWea74i58BlQ",
+							"notePath": [
+								"q7MEjVoBCNqK",
+								"HkakckcBPl82",
+								"vWea74i58BlQ"
+							],
+							"title": "蜂窝形三角锥网架",
+							"notePosition": 400,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "K2E8dZuVdyu5",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "蜂窝形三角锥网架.html",
+							"dirFileName": "蜂窝形三角锥网架",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "K2E8dZuVdyu5",
+									"notePath": [
+										"q7MEjVoBCNqK",
+										"HkakckcBPl82",
+										"vWea74i58BlQ",
+										"K2E8dZuVdyu5"
+									],
+									"title": "image.jpg",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.jpg",
+											"isInheritable": false,
+											"position": 1000
+										},
+										{
+											"type": "label",
+											"name": "imageUrl",
+											"value": "https://pic3.zhimg.com/80/v2-df691afc03dd0142e526d48328ad01d6_1440w.webp",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.jpg"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}
